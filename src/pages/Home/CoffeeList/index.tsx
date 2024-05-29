@@ -209,6 +209,7 @@ export function CoffeeList() {
                 category={state.category}
                 description={state.description}
                 img={state.img}
+                price={state.price}
                 title={state.title}
                 id={state.id}
               />
